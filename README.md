@@ -23,12 +23,14 @@
 
 ### 👋 **Hi, I'm Naoto!**
 
-🚀 **Full-Stack Engineer** — *I design, build, and ship from UI to infra, solo if needed*
-🏢 **Company:** GMO Internet  (New Grad, Apr 2026 ~)
-💼 **Side Work:** Frontend Engineer @ Quixotiks (Agricultural SaaS "Minori UI")
-🌍 **Location:** Kitakyushu, Fukuoka, Japan 🇯🇵
-🎯 **Mission:** Build products that work in production, not just in demos
-🥊 **Off-hours:** Rugby / Boxing / MMA / Wrestling / Running
+<ul>
+<li>🚀 <b>Full-Stack Engineer</b> — <i>I design, build, and ship from UI to infra, solo if needed</i></li>
+<li>🏢 <b>Company:</b> GMO Internet Group (New Grad, Apr 2026 ~) — Domain & Internet Infrastructure</li>
+<li>💼 <b>Side Work:</b> Frontend Engineer @ Quixotiks (Agricultural SaaS "Minori UI")</li>
+<li>🌍 <b>Location:</b> Kitakyushu, Fukuoka, Japan 🇯🇵</li>
+<li>🎯 <b>Mission:</b> Build products that work in production, not just in demos</li>
+<li>🥊 <b>Off-hours:</b> Boxing / MMA / Wrestling / Running</li>
+</ul>
 
 </td>
 </tr>
