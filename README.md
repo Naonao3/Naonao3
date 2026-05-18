@@ -24,11 +24,11 @@
 ### 👋 **Hi, I'm Naoto!**
 
 🚀 **Full-Stack Engineer** — *I design, build, and ship from UI to infra, solo if needed*
-🏢 **Company:** GMO Internet Group (New Grad, Apr 2026 ~) — Domain & Internet Infrastructure
+🏢 **Company:** GMO Internet  (New Grad, Apr 2026 ~)
 💼 **Side Work:** Frontend Engineer @ Quixotiks (Agricultural SaaS "Minori UI")
 🌍 **Location:** Kitakyushu, Fukuoka, Japan 🇯🇵
 🎯 **Mission:** Build products that work in production, not just in demos
-🥊 **Off-hours:** Boxing / MMA / Wrestling / Running
+🥊 **Off-hours:** Rugby / Boxing / MMA / Wrestling / Running
 
 </td>
 </tr>
@@ -72,7 +72,6 @@
 - AWS (S3, CloudFront, Lambda)
 - GCP (Firebase, Cloud Run)
 - Docker / GitHub Actions
-- DNSSEC / Domain Infra
 
 </td>
 </tr>
@@ -92,12 +91,14 @@
 
 | Year | Chapter | What I Was Doing |
 | :---: | :--- | :--- |
-| **〜2022** | 🚢 **Japan Coast Guard Officer** | Discipline, mission-critical operations, leadership at sea |
-| **2023** | 🌏 **Study Abroad in Russia** | Language, cross-cultural mindset |
-| **2024** | 💻 **Self-taught Engineer** | Pivoted careers, picked up TS / Go / Java |
-| **2025** | 🛠️ **Pre-employment Intern @ GMO** | Built domain management system (Java / Spring Boot / DNSSEC) |
-| **2026** | 🎓 **New Grad @ GMO Internet Group** | Full-stack on internet infrastructure & domain services |
-| **Now** | 🚀 **+ Freelance @ Quixotiks** | Frontend on agricultural SaaS (Next.js / shadcn/ui) |
+| **2015.04〜2019.01** | 🚢 **Japan Coast Guard Officer** | Discipline, mission-critical operations, leadership at sea |
+| **2019.04〜2025.09** | 🎓 **Chuo University** |Faculty of Commerce, Department of Banking and Corporate Finance|
+| **2021.09～2023.06** | 🪆 **Study Abroad in Russia at National Research University Higher School of Economics** | Faculty of Business Informatics |
+| **2025.01～2025.08** | 💻 **Softwarer Engineer at LOOVIC.inc** | Frontend develop with TypeScript, React, Next.js and TailwindCSS |
+| **2025.08～2026.03** | 🛠️ **Pre-employment Intern @ GMO Internet** | Built domain management system (Java / Spring Boot / DNSSEC) |
+| **2025.11～NOW** | 💻 **Softwarer Engineer at Quixotiks** | Frontend develop with TypeScript, React, Next.js and TailwindCSS |
+| **2025.12～2026.04** | 💻 **Softwarer Engineer at URBANIX** | Fullstack develop with TypeScript, React, Next.js, TailwindCSS, Go, PostgerSQL |
+| **2026.04～NOW** | 🎓 **New Grad @ GMO Internet** | Full-stack on internet infrastructure & domain services |
 
 </div>
 
@@ -105,7 +106,7 @@
 
 ---
 
-## 🛠️ **Selected Projects**
+## 🛠️ **A solo-developed projects**
 
 <table>
 <tr>
@@ -117,33 +118,11 @@
 Designed and built solo — iOS client, Go API, AWS media pipeline.
 
 </td>
-<td width="50%" valign="top">
 
-### 📈 **Quant Research Dashboard**
-*US–Japan sector ETF lead-lag strategy with Subspace Regularized PCA*
-**Stack:** Python (backtest engine) · Next.js · Vercel
-End-to-end: research → backtest → web dashboard.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 **iStaff (GMO Internship)**
-*Domain management system with DNSSEC support*
-**Stack:** Java · Spring Boot · DNSSEC infra
-Production-grade internet infrastructure work.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 **Minori UI (Quixotiks)**
-*Agricultural support SaaS frontend*
-**Stack:** Next.js 13 · TypeScript · shadcn/ui · BFF pattern
-Ongoing frontend implementation as contractor.
-
-</td>
-</tr>
 </table>
 
 ---
